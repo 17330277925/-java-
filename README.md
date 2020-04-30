@@ -105,5 +105,9 @@ int x=0;
 实验收获：
 
 ​    其实本次实验也确实让我看到了我在上学期学习中的不足，很多东西的学习都不是很好。这次可以说是这次再次实验，我学会了很多东西。字符串实验，也让我深入学习理解了上学期期末考试题string 和 string buffer的那道题。还有一些基础的问题，在学习了理论部分的内容结合实际应用，真正的用到了函数的调用等问题，就掌握的更好了，解决了很多上学期一流的问题。虽然本次实验的内容和上学期的实验内容像，当时在上次的实验中我是把要用的字符串编写到了代码中，这次在编写代码的过程中我应要求把这一串的字符串改成了后来输入，变化不是很大。
-
+https://github.com/17330277925/-java-/blob/master/1.jpg
+https://github.com/17330277925/-java-/blob/master/2.jpg
+https://github.com/17330277925/-java-/blob/master/3.jpg
+https://github.com/17330277925/-java-/blob/master/4.jpg
 https://github.com/17330277925/-java-/blob/master/5.jpg
+https://github.com/17330277925/-java-/blob/master/6.jpg
